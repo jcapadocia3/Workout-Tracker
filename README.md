@@ -2,6 +2,10 @@
   
 # Workout Tracker
 
+## Link to deployed Heroku app:
+
+https://workout-tracker-jcnu.herokuapp.com/
+
 ## Link to public repo on Github:
 
 https://github.com/jcapadocia3/Workout-Tracker
