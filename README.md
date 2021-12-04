@@ -23,8 +23,11 @@ The purpose of this project is to allow a user to simply track their workout his
 
 ## Final Product Image
 
-- Image of final product created<br>
-<img src="IMGPATH" alt="Final Product" width="900">
+- Images of final product walkthrough<br>
+<img src="./assets/images/1st.png" alt="Final Product" width="900">
+<img src="./assets/images/2nd.png" alt="Final Product" width="900">
+<img src="./assets/images/3rd.png" alt="Final Product" width="900">
+<img src="./assets/images/4th.png" alt="Final Product" width="900">
 
 ## User Story
 ```
